@@ -65,4 +65,4 @@ ilansitesinativeclone/
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
-![Image](https://github.com/user-attachments/assets/94908d6e-ac8a-4667-8f21-fb247dab9118)
+![Image](https://github.com/user-attachments/assets/1daafffa-5828-44b9-be02-9cf73f94588b)
