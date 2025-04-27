@@ -13,17 +13,20 @@ Bu proje, React Native ve Expo kullanılarak geliştirilmiş bir ilan sitesi uyg
 ## Kurulum
 
 1. Projeyi klonlayın:
+
 ```bash
 git clone [repo-url]
 ```
 
 2. Bağımlılıkları yükleyin:
+
 ```bash
 cd ilansitesinativeclone
 npm install
 ```
 
 3. Uygulamayı başlatın:
+
 ```bash
 npm start
 ```
@@ -61,3 +64,5 @@ ilansitesinativeclone/
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+
+![Image](https://github.com/user-attachments/assets/94908d6e-ac8a-4667-8f21-fb247dab9118)
